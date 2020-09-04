@@ -1,4 +1,5 @@
 TITLE
+
 Advertising Dataset
 
 
@@ -7,6 +8,7 @@ AUTHOR
 
 
 PROJECT DESCRIPTION
+
 A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process.
 Online marketing is the practice of leveraging web-based channels to spread a message about a company’s brand, products, or services to its potential customers. The methods and techniques used for online marketing include email, social media, display advertising, search engine optimization, Google AdWords and more. The objective of marketing is to reach potential customers through the channels where they spend their time reading, searching, shopping, and socializing online.
 The objective of this study is to use the advertising dataset provided to support the Kenyan entrepreneur identify which individuals are most likely to click on her online advertisement.
