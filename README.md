@@ -4,6 +4,7 @@ Advertising Dataset
 
 
 AUTHOR
+
 •	Built By Martha Irungu
 
 
@@ -16,17 +17,20 @@ The objective of this study is to use the advertising dataset provided to suppor
 
 
 SetUp / Installation Requirements
+
 Clone the repo by running:
 git clone: https://github.com/martha-irungu/Advertising_Dataset.git 
 
 
 
 TECHNOLOGIES USED
+
 •	r programming language
 •	Rstudio
 
 
 CONTACT INFORMATION
+
 For email reach us through marthairungum@gmail.com
 
 
