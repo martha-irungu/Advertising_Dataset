@@ -1,14 +1,14 @@
-TITLE
+**TITLE**
 
 Advertising Dataset
 
 
-AUTHOR
+**AUTHOR**
 
 •	Built By Martha Irungu
 
 
-PROJECT DESCRIPTION
+**PROJECT DESCRIPTION**
 
 A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process.
 
@@ -18,27 +18,27 @@ The objective of this study is to use the advertising dataset provided to suppor
 
 
 
-SetUp / Installation Requirements
+**SetUp / Installation Requirements**
 
 Clone the repo by running:
 git clone: https://github.com/martha-irungu/Advertising_Dataset.git 
 
 
 
-TECHNOLOGIES USED
+**TECHNOLOGIES USED**
 
 •	r programming language
 
 •	Rstudio
 
 
-CONTACT INFORMATION
+**CONTACT INFORMATION**
 
 For email reach us through marthairungum@gmail.com
 
 
 
-LICENCE
+**LICENCE**
 MIT License
 Copyright (c) 2020 Martha Irungu
 
