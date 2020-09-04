@@ -26,6 +26,7 @@ git clone: https://github.com/martha-irungu/Advertising_Dataset.git
 TECHNOLOGIES USED
 
 •	r programming language
+
 •	Rstudio
 
 
